@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="role">
+        <item>管理员</item>
+        <item>专家</item>
+        <item>普通用户</item>
+    </string-array>
+    <string-array name="knowledge_library">
+        <item>百科-品种库</item>
+        <item>百科-疾病库</item>
+        <item>百科-肥料库</item>
+        <item>百科-农药库</item>
+        <item>百科-综合库</item>
+    </string-array>
+</resources>
